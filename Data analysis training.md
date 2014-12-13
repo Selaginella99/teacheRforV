@@ -7,3 +7,5 @@
 * [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#.VIxl-SvF98E) from Harvard includes high-throughput sequencing data analysis;
 
 * [Codecademy](http://www.codecademy.com/learn) includes Python, JavaScript, Ruby, PHP, HTML & CSS.
+
+Thanks for my partner, [Road2Stat](https://github.com/teacheRforV) to share all the useful information. :)
